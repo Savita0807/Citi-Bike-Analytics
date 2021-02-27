@@ -17,7 +17,7 @@ Since 2013, the Citi Bike Program has implemented a robust infrastructure for co
 
 1) There has been total 336,802 trips recorded in 2020. Maximum ridership growth was noticed in the month of October. Minimun ridership count was notice in the month of April. Riders count from March to April might have dropped drastically due to COVID-19 lockdown. 
 
-![Img1.png](Images/Img1.png)
+![Img1](Images/Img1.png)
 
 2) For each month count of Annual subscribers were higher than short term customers.
 	
